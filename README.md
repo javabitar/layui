@@ -34,3 +34,19 @@ email：865189478@qq.com
 5、contact me
 
   +qq
+
+
+
+
+
+6、如果发布
+
+只需要下边几个文件，然后放到github对应的 types/layui-src 目录中即可
+
+tslint.json
+
+tsconfig.json
+
+layui-src-tests.ts
+
+index.d.ts
